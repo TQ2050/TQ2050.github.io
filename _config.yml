@@ -89,7 +89,7 @@ service-worker: true
 page-mathjax: false
 
 # Follow Me on X
-Follow Me on X:
+Follow-Me:
   [
     { title: "@TQ2050", href: "https://x.com/TQ2050" },
   ]
