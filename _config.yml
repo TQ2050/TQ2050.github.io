@@ -88,8 +88,8 @@ service-worker: true
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
 
-# Friends
-friends:
+# Follow Me on X
+Follow Me on X:
   [
-    { title: "@Week_ICP", href: "https://x.com/Week_ICP" },
+    { title: "@TQ2050", href: "https://x.com/TQ2050" },
   ]
