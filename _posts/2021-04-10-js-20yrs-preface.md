@@ -163,8 +163,11 @@ ICP 的独特随机性机制植根于阈值密码学，提供了一种安全、�
 
 参考资料
 https://internetcomputer.org/docs/current/motoko/main/base/Random
+
 https://chain.link/vrf
+
 https://github.com/quintolet/randomness-oracle
+
 作者声明：本博客发布内容均为作者本人学习思考，不作为任何投资参考。
 
 每周ICP资讯订阅 | Twitter | 网站
