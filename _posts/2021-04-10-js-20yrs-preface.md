@@ -5,8 +5,9 @@ author:       "TQ2050"
 header-style: text
 catalog:      true
 tags:
-    - Web
-    - JavaScript
+    - Blockchian
+    - Randomness
+    - Infra
 ---
 
 > ICP 的阈值加密技术确保去中心化应用具有安全、不可预测的随机性，克服了传统区块链在公平性和可验证性方面的弱点。
