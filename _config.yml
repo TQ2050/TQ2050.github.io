@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: ""
+sidebar-about-description: false 
 sidebar-avatar: 
 
 # Featured Tags
