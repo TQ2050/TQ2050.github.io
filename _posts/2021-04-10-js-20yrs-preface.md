@@ -162,10 +162,9 @@ AI和随机性：AI与区块链随机性的结合是一个具有巨大潜力的�
 ICP 的独特随机性机制植根于阈值密码学，提供了一种安全、去中心化和可验证的解决方案，增强了信任度，提高了效率。它的设计与协议更广泛的目标--可扩展性、高性能和公平参与--非常吻合，使其在区块链生态系统中脱颖而出。当然，我们也看到了一些挑战，比如容错，它需要子网中最少数量的诚实节点来维护安全。
 
 参考资料
+
 https://internetcomputer.org/docs/current/motoko/main/base/Random
-
 https://chain.link/vrf
-
 https://github.com/quintolet/randomness-oracle
 
 作者声明：本博客发布内容均为作者本人学习思考，不作为任何投资参考。
