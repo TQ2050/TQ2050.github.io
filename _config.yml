@@ -3,7 +3,7 @@ title: TQ2050
 SEOTitle: TQ2050
 header-img: 
 email: tqzhu1987@gmail.com
-description: "Crypto Researcher | "
+description: "Crypto Researcher"
 keyword: "TQ2050, Crypto, Blockchian, Web3.0"
 url: "https://weekinicp.substack.com/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: TQ2050
 
 # Netease settings
 netease_comment: false
@@ -74,8 +74,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: ""
+sidebar-avatar: 
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
