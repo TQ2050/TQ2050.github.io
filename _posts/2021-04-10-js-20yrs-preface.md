@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "ICP 的分散可验证随机性：利用阈值加密法实现公平与安全"
-date: 2025-01-09 14:30:00
+date: 2025-01-09
 author:       "TQ2050"
 header-style: text
 catalog:      true
