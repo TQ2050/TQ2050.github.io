@@ -1,11 +1,11 @@
 # Site settings
 title: TQ2050
 SEOTitle: TQ2050
-header-img: img/home-bg.jpg
+header-img: 
 email: tqzhu1987@gmail.com
 description: "Crypto Researcher | "
 keyword: "TQ2050, Crypto, Blockchian, Web3.0"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://weekinicp.substack.com/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
