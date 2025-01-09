@@ -4,7 +4,7 @@ title:        "ICP 的去中心化可验证随机性：利用阈值加密法实�
 date: 2025-01-09
 author:       "TQ2050"
 header-style: text
-catalog:      true
+catalog:      false
 tags:
     - Blockchian
     - Randomness
