@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      "See you, Alibaba "
+published:  false
 subtitle:   "再见，阿里。"
 date:       2015-05-11
 author:     "Hux"
