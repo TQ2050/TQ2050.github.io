@@ -1,7 +1,6 @@
 ---
 layout:       post
 title:        "可扩展性： ICP网络的可扩展性和成本效益权衡策略"
-published:    true
 date:         2024-10-26
 author:       "TQ2050"
 header-style: text
