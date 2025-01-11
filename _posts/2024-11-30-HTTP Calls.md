@@ -2,7 +2,7 @@
 layout:       post
 title:        "ICP 的 HTTP 外部调用和 Chainlink 预言机解决方案的深度分析"
 published:    true
-date:         2024-10-17
+date:         2024-11-30
 author:       "TQ2050"
 header-style: text
 catalog:      false
