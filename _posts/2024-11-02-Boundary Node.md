@@ -2,7 +2,7 @@
 layout:       post
 title:        "IC 网络边界节点架构新变革：安全性、可扩展性与去中心化度的跃升"
 published:    true
-date:         2024-10-17
+date:         2024-11-02
 author:       "TQ2050"
 header-style: text
 catalog:      false
