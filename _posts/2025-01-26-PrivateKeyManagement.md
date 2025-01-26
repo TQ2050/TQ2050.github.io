@@ -8,11 +8,11 @@ header-style: text
 catalog:      false
 tags:
     - ICP
-    - RWA
-    - Mining
+    - AI Agent
+    - Private Key
 ---
 
-> 本文探讨了在哈希率中使用 RWA 来应对 PoW 挖矿（特别是比特币挖矿）中的挑战，以及互联网计算机协议如何支持发展和行业增长。
+> AI Agent 有望在去中心化应用中发挥变革性作用。MPC 和 zk-SNARKs 等解决方案可解决计算与安全之间的平衡问题，是前景广阔的进步。通过在 ICP 上集成 MPC，密钥控制可以分布在各个节点上，从而大大减少单点故障。
 
 ### **本文要点：**
 
