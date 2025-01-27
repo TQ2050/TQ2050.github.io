@@ -10,6 +10,7 @@ tags:
     - ICP
     - AI Agent
     - Private Key
+---
 
 > AI Agent 有望在去中心化应用中发挥变革性作用。MPC 和 zk-SNARKs 等解决方案可解决计算与安全之间的平衡问题，是前景广阔的进步。通过在 ICP 上集成 MPC，密钥控制可以分布在各个节点上，从而大大减少单点故障。
 
