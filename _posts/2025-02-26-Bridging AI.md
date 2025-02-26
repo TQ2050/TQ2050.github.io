@@ -60,7 +60,7 @@ Akash、Render、io.net等平台通过整合全球闲置GPU资源，试图为AI�
 
 #### **核心差距总结**
 
-![image-20250226122825626](/Users/fayefei/Library/Application Support/typora-user-images/image-20250226122825626.png)
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdeE__KMJ7LCMTCuaJZAZPRlOY9Hsgd0WL-RE51gZwl-XZJLCRiBjqkiWrL9kcLCg5RspxUQqtBJYw9u4fM9_c7EslQcK1rnBYyIjG9JKoerE7yKGZp-1ab1mj6YoPetp4GV-o6TA?key=4RNv4EEOX6WX76HSqMtMS0VX)
 
 ### 2. AI如何赋能Crypto
 
